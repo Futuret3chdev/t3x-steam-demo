@@ -1,26 +1,23 @@
 # T3x Steam Demo
 
-Steam-ready demo project for a T3x ecosystem game.
+Steam-ready demo landing + playable collector slice for the T3x / ASHWAKE experience.
 
-Steam developer / account name: **Futuret3Ch**
+Steam developer: **Futuret3Ch**
 
-Live browser demo: https://t3x-steam-demo-liart.vercel.app/
+Live (redeploy from latest main to update): https://t3x-steam-demo-liart.vercel.app/
 
-## Features
-- Playable canvas collector demo (click gold T3x tokens)
-- Score tracking
+Full ASHWAKE beta: https://ashwake-unv5.vercel.app/
+
+## On this page
+- Playable canvas collector (click gold T3x tokens)
+- Session best-run score
+- Step tutorial
+- Direct link to the full ASHWAKE public beta
 - Wishlist placeholder
-- Notes on mapping the browser slice to a native Steamworks build
-- Infinite Wallet link (self-custodial)
+- Steamworks readiness notes (achievements, cloud, overlay)
 
-## Steam Integration Notes
-- Use Steamworks SDK for native builds
-- For C#/Unity: Steamworks.NET or Facepunch.Steamworks
-- Demo can be a separate AppID on Steam
-- Current Steam policy: avoid issuing/exchanging crypto/NFTs directly in the game if publishing on Steam
-
-## Deploy
-Repo: https://github.com/Futuret3chdev/t3x-steam-demo
+## Repos
+- This landing: https://github.com/Futuret3chdev/t3x-steam-demo
+- Full game: https://github.com/Futuret3chdev/ashwake (see STEAM.md for the native path)
 
 Wallet: https://t3x-wallet.vercel.app/
-Site: t3x.futuret3ch.com.au
